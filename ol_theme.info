@@ -1,0 +1,7 @@
+name = OL Theme
+description = ""
+core = 7.x
+base theme = stark
+stylesheets[all][] = style.css
+
+
