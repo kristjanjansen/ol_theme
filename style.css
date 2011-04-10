@@ -6,3 +6,9 @@ a, a:link, a:active, a:visited, a:hover {
   color: #f03;
   text-decoration: none;
 }
+h1, h2, h3, h5, h5, h6 {
+  line-height: 110%;
+}
+#site-name {
+  font-size: 2em;
+}
